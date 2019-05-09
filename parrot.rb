@@ -5,7 +5,7 @@ def parrot( value = "Squawk!")
   "#{value}"
 end
 
-def parrot("Pretty bird!")
+def parrot(string = "Pretty bird!")
   puts ("Pretty bird!")
-"#{Pretty bird!}"
+"#{string!}"
 end
