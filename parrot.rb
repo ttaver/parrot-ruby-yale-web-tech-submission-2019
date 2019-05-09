@@ -4,3 +4,4 @@ def parrot( value = "Squawk!")
   value
 end
 puts "He is #{parrot}"
+parrot("value")
