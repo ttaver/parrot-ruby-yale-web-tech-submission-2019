@@ -8,4 +8,4 @@ end
 def parrot("Pretty bird!")
   puts ("Pretty bird!")
 "#{Pretty bird!}"
-end 
+end
