@@ -4,7 +4,7 @@ def parrot( value = "Squawk!")
   "#{value}"
 end
 
-puts("Squak!")
+parrot = puts("Squak!")
 
 parrot("Pretty bird!")
-puts("Pretty bird!")
+parrot = puts("Pretty bird!")
