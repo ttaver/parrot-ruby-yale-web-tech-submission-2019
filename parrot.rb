@@ -7,5 +7,5 @@ end
 
 def parrot(phrase = "Pretty bird!")
   puts ("Pretty bird!")
-"#{string!}"
+"#{phrase}"
 end
