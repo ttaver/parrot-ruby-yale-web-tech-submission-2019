@@ -4,8 +4,3 @@ def parrot( value = "Squawk!")
   puts("Squawk!")
   "#{value}"
 end
-
-def parrot(phrase = "Pretty bird!")
-  puts ("Pretty bird!")
-"#{phrase}"
-end
