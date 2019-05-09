@@ -5,4 +5,7 @@ def parrot( value = "Squawk!")
   "#{value}"
 end
 
-parrot("Pretty bird!")
+def parrot("Pretty bird!")
+  puts ("Pretty bird!")
+"#{Pretty bird!}"
+end 
