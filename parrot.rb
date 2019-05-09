@@ -6,4 +6,4 @@ def parrot( value = "Squawk!")
 end
 
 parrot("Pretty bird!")
-parrot = puts("Pretty bird!")
+puts("Pretty bird!")
